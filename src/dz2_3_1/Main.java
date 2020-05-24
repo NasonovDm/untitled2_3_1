@@ -1,6 +1,6 @@
 package dz2_3_1;
 
-//import java.util.*;
+import java.util.*;
 
 
 public class Main {
